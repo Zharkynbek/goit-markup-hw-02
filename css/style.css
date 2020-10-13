@@ -1,0 +1,37 @@
+.skryt {
+  display: none;
+}
+
+:root {
+  --primery-text-color: #757575;
+  --primery-title-color: #212121;
+  --logo-color: #2196f3;
+}
+
+.web {
+  color: var(--logo-color);
+}
+.studio {
+  color: var(--primery-title-color);
+}
+
+.site-navi a {
+  color: var(--primery-title-color);
+}
+
+.link-type a {
+  color: var(--primery-text-color);
+}
+
+.site-navi .first-navi {
+  color: var(--logo-color);
+}
+
+.site-navi .second-navi {
+  color: var(--logo-color);
+}
+
+h2,
+h3 {
+  color: var(--primery-title-color);
+}
