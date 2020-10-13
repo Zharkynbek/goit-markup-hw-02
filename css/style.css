@@ -19,19 +19,33 @@
   color: var(--primery-title-color);
 }
 
+.site-navi .link:hover,
+.link-type .link:focus {
+  color: var(--logo-color);
+}
+
+.first-navi {
+  color: var(--logo-color);
+}
+
+.second-navi {
+  color: var(--logo-color);
+}
+
 .link-type a {
   color: var(--primery-text-color);
 }
 
-.site-navi .first-navi {
-  color: var(--logo-color);
-}
-
-.site-navi .second-navi {
+.link-type .link:hover,
+.link-type .link:focus {
   color: var(--logo-color);
 }
 
 h2,
 h3 {
   color: var(--primery-title-color);
+}
+
+p {
+  color: var(--primery-text-color);
 }
