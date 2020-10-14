@@ -8,11 +8,23 @@
   --logo-color: #2196f3;
 }
 
+.list {
+  list-style-type: none;
+}
+
+.header-navi {
+  background-color: #fff;
+}
+
 .web {
   color: var(--logo-color);
 }
-.studio {
+.high-studio {
   color: var(--primery-title-color);
+}
+
+.under-studio {
+  color: #fff;
 }
 
 .site-navi a {
@@ -41,6 +53,22 @@
   color: var(--logo-color);
 }
 
+.primery-section {
+  background-color: #2f303a;
+}
+
+.second-section {
+  background-color: #e5e5e5;
+}
+
+.second-to-section {
+  background-color: #e5e5e5;
+}
+
+.tretii-section {
+  background-color: #f5f4fa;
+}
+
 h2,
 h3 {
   color: var(--primery-title-color);
@@ -48,4 +76,12 @@ h3 {
 
 p {
   color: var(--primery-text-color);
+}
+
+.konec {
+  background-color: #2f303a;
+}
+
+.primery-main {
+  background-color: #e5e5e5;
 }
