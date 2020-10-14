@@ -98,6 +98,16 @@ p {
 .primery-main {
   background-color: #e5e5e5;
 }
+.main-list-filtr {
+  background-color: #f5f4fa;
+  color: var(--primery-title-color);
+}
+
+.main-list-filtr:hover,
+.main-list-filtr:focus {
+  background-color: var(--logo-color);
+  color: #fff;
+}
 
 .konec {
   color: #fff;
