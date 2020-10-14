@@ -56,8 +56,18 @@
 .primery-section {
   background-color: #2f303a;
 }
+.primery-section .order {
+  color: #fff;
+  background-color: var(--logo-color);
+}
+
+.order-type {
+  text-align: center;
+}
+
 .primery-title {
   color: #fff;
+  text-align: center;
 }
 
 .second-section {
