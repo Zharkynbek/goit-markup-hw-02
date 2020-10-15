@@ -12,19 +12,38 @@
   list-style-type: none;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto;
+}
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: Roboto;
+}
+
 .header-navi {
   background-color: #fff;
 }
 
 .web {
   color: var(--logo-color);
+  font-family: Raleway;
 }
 .high-studio {
   color: var(--primery-title-color);
+  font-family: Raleway;
 }
 
 .under-studio {
   color: #fff;
+  font-family: Raleway;
 }
 
 .site-navi a {
